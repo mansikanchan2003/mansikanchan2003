@@ -8,7 +8,7 @@
 🎓 I’m **Mansi Kanchan**, a **Computer Science & Engineering student (B.Tech, 2026)** at Invertis University.  
 💻 Passionate about building impactful applications with **Java, React, and Firebase**.  
 📱 Currently working on **PartyLive** – a social event & party management app using Jetpack Compose + Firebase.  
-🌟 Open to internships and collaborations in **Software Development, Full Stack Development, and Android Apps**.  
+🌟 Open to jobs, internships and collaborations in **Software Development, Full Stack Development, and Android Apps**.  
 
 ---
 
@@ -32,13 +32,14 @@
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
+**Core Skills:**  
+![DSA](https://img.shields.io/badge/DSA-323330?style=for-the-badge&logo=codeforces&logoColor=white) ![Clean Code](https://img.shields.io/badge/Clean_Code-2C2C2C?style=for-the-badge&logo=checkmarx&logoColor=white) ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-02569B?style=for-the-badge&logo=hackerrank&logoColor=white)  
+
 ---
 
 ## 📊 GitHub Stats  
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansikanchan2003&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansikanchan2003&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansikanchan2003&layout=compact&theme=radical)  
+![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansikanchan2003&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansikanchan2003&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansikanchan2003&layout=compact&theme=radical)  
 
 ---
 
