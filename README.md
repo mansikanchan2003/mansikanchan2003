@@ -14,10 +14,13 @@
 
 ## 💡 Projects  
 
-🔹 **BuzzChat** – Real-time chat app (Java + Firebase) with authentication & media sharing.  
-🔹 **BuzzBot** – AI-powered chatbot built with React + OpenAI API.  
-🔹 **QuizApp** – Quiz platform with authentication, leaderboard & certificate generation.  
-🔹 **PartyLive (Ongoing)** – Social event management app using Jetpack Compose + Firebase.  
+| 🧠 Project | 💬 Description | ⚙️ Tech Stack | 🔗 Repo |
+|---|---|---|---|
+| 💬 **BuzzChat** | Real-time chat with auth, profiles, media sharing | Java, Android, Firebase (Auth, Firestore, Storage) | [Repo](https://github.com/mansikanchan2003/BuzzChat2) |
+| 🤖 **BuzzBot** | AI chatbot inside a React chat app | React, OpenAI API, Context API | [Repo](https://github.com/mansikanchan2003/buzzbot) |
+| 🧪 **QuizApp** | Create/attempt quizzes, leaderboard, certificates | React (Vite), Firebase, Firestore | [Repo](https://github.com/mansikanchan2003/quizz-app) |
+| 🎉 **PartyLive (Ongoing)** | Social event & party management with modern UI | Jetpack Compose, Firebase, Kotlin | [Repo] Yet to be Upload |
+| 📦 **More Projects** | Explore all my public work | — | [github.com/mansikanchan2003](https://github.com/mansikanchan2003) |
 
 ---
 
@@ -45,9 +48,9 @@
 
 ## 🌐 Connect with Me  
 
-📧 [Email](mailto:kanchan.mansi2003@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/mansi-kanchan-7924b0196)  
-👩‍💻 [GitHub](https://github.com/mansikanchan2003)  
+📧 Email : [kanchan.mansi2003@gmail.com](mailto:kanchan.mansi2003@gmail.com)  
+💼 LinkedIn : [Mansi Kanchan](https://linkedin.com/in/mansi-kanchan-7924b0196)  
+👩‍💻 GitHub : [mansikanchan2003](https://github.com/mansikanchan2003)  
 
 ---
 
