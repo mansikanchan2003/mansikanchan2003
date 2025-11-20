@@ -16,10 +16,10 @@
 
 | 🧠 Project | 💬 Description | ⚙️ Tech Stack | 🔗 Repo |
 |---|---|---|---|
-| 💬 **BuzzChat** | Real-time chat with auth, profiles, media sharing | Java, Android, Firebase (Auth, Firestore, Storage) | [BuzzChat](https://github.com/mansikanchan2003/BuzzChat2) |
-| 🤖 **BuzzBot** | AI chatbot inside a React chat app | React, OpenAI API, Context API | [BuzzBot](https://github.com/mansikanchan2003/buzzbot) |
+🎨 Portfolio | Personal portfolio website — responsive, fast, and easy to extend | React (Vite), HTML/CSS (or Tailwind/CSS modules | [Portfolio](https://github.com/mansikanchan2003/MyPortfolio) |
 | 🧪 **QuizApp** | Create/attempt quizzes, leaderboard, certificates | React (Vite), Firebase, Firestore | [QuizApp](https://github.com/mansikanchan2003/quizz-app) |
-| 🎉 **PartyLive (Ongoing)** | Social event & party management with modern UI | Jetpack Compose, Firebase, Kotlin | Yet to be Uploaded |
+| 🤖 **BuzzBot** | AI chatbot inside a React chat app | React, OpenAI API, Context API | [BuzzBot](https://github.com/mansikanchan2003/buzzbot) |
+| 💬 **BuzzChat** | Real-time chat with auth, profiles, media sharing | Java, Android, Firebase (Auth, Firestore, Storage) | [BuzzChat](https://github.com/mansikanchan2003/BuzzChat2) |
 | 📦 **More Projects** | Explore all my public work | — | [github.com/mansikanchan2003](https://github.com/mansikanchan2003) |
 
 ---
