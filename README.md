@@ -43,9 +43,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Mansi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansikanchan2003&show_icons=true&theme=radical)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansikanchan2003&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansikanchan2003&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mansikanchan2003&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mansikanchan2003&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansikanchan2003&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
