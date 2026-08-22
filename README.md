@@ -1,6 +1,6 @@
 # Hi there, I'm Mansi 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F77DF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Web+Developer+%7C+Android+Developer;React.js+%7C+Node.js+%7C+MongoDB:Python+%7C+AI+%7C+Prompt+Engineering+Enthusiast;Java+%7C+Firebase+%7C+Full+Stack+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F77DF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Web+Developer+%7C+Android+Developer;React.js+%7C+Node.js+%7C+MongoDB;Python+%7C+AI+%7C+Prompt+Engineering+Enthusiast;Java+%7C+Firebase+%7C+Full+Stack+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)  
 
 ---
 
